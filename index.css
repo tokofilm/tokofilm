@@ -1,0 +1,20 @@
+#dlButton {
+        box-sizing: border-box;
+    cursor: pointer;
+    display: inline-flex;
+    gap: 8px;
+    min-height: 40px;
+    outline: none;
+    padding: 0px 24px;
+    place-content: center;
+    place-items: center;
+    position: relative;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    text-overflow: ellipsis;
+    text-wrap: nowrap;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    vertical-align: top;
+    }
